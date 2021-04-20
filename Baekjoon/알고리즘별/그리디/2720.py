@@ -7,4 +7,3 @@ for _ in range(n):
         print(p // i, end=' ')
         p %= i
     print()
-
